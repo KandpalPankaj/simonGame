@@ -1,0 +1,44 @@
+body {
+  background-color: navy;
+  text-align: center;
+}
+
+#title {
+  font-size: 50px;
+  margin: 80px;
+  color: #fef2bf;
+}
+
+.btn {
+  display: inline-block;
+  border: 5px solid black;
+  border-radius: 15%;
+  margin: 30px;
+  height: 250px;
+  width: 250px;
+}
+
+.game-end {
+  background-color: red;
+}
+
+#red {
+  background-color: red;
+}
+
+#green {
+  background-color: green;
+}
+
+#blue {
+  background-color: blue;
+}
+
+#yellow {
+  background-color: yellow;
+}
+
+.clicked {
+  box-shadow: 0 0 20px white;
+  background-color: brown;
+}
